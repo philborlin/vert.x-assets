@@ -1,0 +1,7 @@
+{
+  "main": "com.risertech.vertx.assets"
+  "worker": false
+  "preserve-cwd": true
+  "auto-redeploy": false
+  "includes": "org.scala-lang.scala-library-v2.9.2"
+}
